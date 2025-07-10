@@ -1,7 +1,7 @@
 const employees = [
-      { id: 1, name: 'John Kimani', age: 30, department: 'IT', salary: 50000 },
-      { id: 2, name: 'Alice Smith', age: 28, department: 'HR', salary: 45000 },
-      { id: 3, name: 'Bob Johnson', age: 35, department: 'Finance', salary: 60000 },
+      { id: 1, name: 'John Kimani', age: 30, department: 'IT', salary: 250000 },
+      { id: 2, name: 'Alice Smith', age: 28, department: 'HR', salary: 150000 },
+      { id: 3, name: 'Bob Johnson', age: 35, department: 'Finance', salary: 160000 },
       //... More employee records can be added here
     ];
 
